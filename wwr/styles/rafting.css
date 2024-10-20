@@ -14,9 +14,11 @@
 h1{
     color: black;
 }
+
 p{
-    color: green;
+    color: var(--secondary-color);
 }
+
 a{
     text-decoration: none;
     color: black;
@@ -33,7 +35,6 @@ a{
     display: block;
     width: 100%;
     height: auto;
-    position: absolute;
 }
 
 .hero h1 {
@@ -89,7 +90,6 @@ a{
     display: flex; /* display = block, flex, grid */
     background-color: steelblue;
     justify-content: space-evenly;
-
 }
 
 .grid {
