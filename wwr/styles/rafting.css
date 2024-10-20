@@ -1,3 +1,16 @@
+.root{
+    --primary-color: #090B0B;
+    --secondary-color: #49ACFD;
+    --accent1-color: #FDCA40;
+    --accent2-color: #FFFFFF;
+
+    --heading-font: roboto, serif;
+    --paragraph-font: "open sans" serif;
+
+
+}
+
+
 h1{
     color: black;
 }
